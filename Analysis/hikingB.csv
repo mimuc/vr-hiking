@@ -1,0 +1,97 @@
+ParticipantID;condition;Before (to walk / chairlift);Before (to teleport);Before (to charge);After (to walk / chairlift);After (to teleport);After (to charge);Borg
+10;3;3min;1s;5s;20min;1s;3min;6
+10;4;5min;1s;None;15min;2s;None;6
+10;2;2min;None;None;3min;None;None;6
+10;1;4min;None;None;3min;None;None;10
+47;4;5min;2s;None;5min;3s;None;9
+47;1;4min;None;None;6min;None;None;15
+47;3;5min;3s;10s;5min;3s;7min;10
+47;2;2min;None;None;6min;None;None;6
+27;2;3min;None;None;5min;None;None;6
+27;3;15min;5s;30s;15min;2s;5min;9
+27;1;10min;None;None;5min;None;None;16
+27;4;15min;2s;None;15min;1s;None;7
+11;1;10min;None;None;4min;None;None;11
+11;2;3min;None;None;4min;None;None;6
+11;4;5min;20s;None;5min;3s;None;6
+11;3;5min;30s;25s;5min;3s;3min;6
+7;1;10min;None;None;5min;None;None;9
+7;2;4min;None;None;7min;None;None;6
+7;4;5min;3s;None;5min;0.5s;None;6
+7;3;5min;0.5s;8s;5min;0.5s;6min 2.5s;8
+20;2;1min 35s;None;None;3min 50s;None;None;10
+20;3;5min;1s;15s;5min;0.01s;4min 30s;8
+20;1;5min;None;None;5min;None;None;13
+20;4;5min;0.01s;None;5min;0.55s;None;7
+40;4;5min;5s;None;15min;1s;None;6
+40;1;10min;None;None;5min;None;None;10
+40;3;15min;5s;10s;15min;1s;5min;6
+40;2;1min;None;None;3min;None;None;6
+17;1;4min;None;None;3min 30s;None;None;13
+17;2;2min;None;None;6min;None;None;6
+17;4;4min;0.1s;None;4min;0.1s;None;8
+17;3;4min;0.1s;20s;4min;0.1s;5min 30s;6
+1;2;1min 30sec;None;None;3min;None;None;6
+1;3;15min;0s;10s;15min;0s;2min;12
+1;1;10min;None;None;2min;None;None;16
+1;4;5min;0s;None;5min;0s;None;6
+21;4;8min;2min;None;20min;5min;None;8
+21;1;7min;None;None;5min;None;None;13
+21;3;5min;1min;5min;3min;3s;5min;6
+21;2;2min;None;None;4min;None;None;6
+14;2;2min;None;None;4min;None;None;11
+14;3;5min;3s;10s;5min;1s;3min;9
+14;1;5min;None;None;5min;None;None;14
+14;4;5min;3s;None;5min;2s;None;9
+2;4;7min;1s;None;30m;3s;None;15
+2;1;15min;None;None;5min;None;None;12
+2;3;5min;1s;10s;5min;1s;3min;9
+2;2;1min;None;None;3min;None;None;6
+38;1;10min;None;None;6min;None;None;10
+38;2;12min;None;None;5min;None;None;6
+38;4;8min;30s;None;8min;3s;None;6
+38;3;8min;3s;10s;8min;3s;5min;6
+39;2;2min;None;None;4min;None;None;6
+39;3;10min;2s;1min;10min;2s;3min;7
+39;1;10min;None;None;3min;None;None;9
+39;4;3min;2s;None;3min;2s;None;6
+3;2;5min;None;None;6min 30s;None;None;8
+3;3;35min;30s;1min;20min;1s;8min;6
+3;1;20min;None;None;4min;None;None;9
+3;4;20min;1s;None;20min;0s;None;6
+42;4;5min;1s;None;5min;0s;None;6
+42;1;5min;None;None;4min;None;None;8
+42;3;4min;0s;3min;4min;0s;3min 20s;6
+42;2;2min;None;None;4min;None;None;6
+23;3;4min;2s;30s;25min;0.5s;3min 30s;8
+23;4;20min;0.5s;None;20min;0.02s;None;7
+23;2;4min;None;None;7min;None;None;9
+23;1;25min;None;None;14min;None;None;13
+35;3;4min;1s;30s;4min;0.5s;5min;7
+35;4;3min;0.5s;None;3min;0s;None;8
+35;2;2min 30s;None;None;3min 30s;None;None;7
+35;1;4min;None;None;4min 30s;None;None;17
+19;1;15min;None;None;10min;None;None;8
+19;2;5min;None;None;5min;None;None;6
+19;4;15min;1min;None;15min;10s;None;7
+19;3;15min;2min;1min 30s;15min;10s;4min;7
+12;2;1min;None;None;5min;None;None;11
+12;3;5min;1s;5s;5min;0.5s;3min;10
+12;1;5min;None;None;4min;None;None;15
+12;4;3min;0s;None;4min;0s;None;7
+28;4;2min 37s;1s;None;2min 37s;1s;None;6
+28;1;2min 40s;None;None;6min 20s;None;None;13
+28;3;6min;1s;10s;6min 20s;1s;6min 30s;6
+28;2;6min 20;None;None;6min 20s;None;None;6
+32;1;3min;None;None;4min;None;None;11
+32;2;2min;None;None;4min;None;None;6
+32;4;4min;10s;None;4min;1s;None;6
+32;3;4min;2s;15s;4min;1s;4min;6
+24;3;25min;0.2s;3s;35m;0.1s;5min;6
+24;4;30min;0.1s;None;30min;0.1s;None;6
+24;2;10min;None;None;6min;None;None;6
+24;1;15min;None;None;6min 30s;None;None;9
+13;3;10min;1s;1s;10min;1s;3min;7
+13;4;10min;1s;None;10min;1s;None;7
+13;2;30s;None;None;4min;None;None;7
+13;1;15min;None;None;5min;None;None;13
